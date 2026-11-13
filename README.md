@@ -1,6 +1,6 @@
 # ExpanderGraph
 
-Lean formalisation of key definitions and foundational results in the theory of expander graphs. The formalisation was originally done as part of an Imperial College MSc project, and an abridged version of the accompanying [dissertation](LINK) serves as detailed documentation of the results. The key resource was [these lectures notes](https://people.seas.harvard.edu/\%7Esalil/cs225/spring09/lecnotes/Chap4.pdf).
+Lean formalisation of key definitions and foundational results in the theory of expander graphs. The formalisation was originally done as part of an Imperial College MSc project, and an abridged version of the accompanying [dissertation](https://github.com/sjh227/LeanExpanderGraph/blob/main/Formalising_Expander_Graphs.pdf) serves as detailed documentation of the results. The key resource was [these lectures notes](https://people.seas.harvard.edu/\%7Esalil/cs225/spring09/lecnotes/Chap4.pdf).
 
 ## Installation
 
@@ -21,8 +21,8 @@ I don't envisage the project growing so large that I cannot maintain it myself. 
 @software{LeanExpanderGraph,
   title = {Lean Expander Graph},
   author = {Steven Herbert},
-  year = {2025},
-  url = {LINK}
+  year = {2026},
+  url = {https://github.com/sjh227/LeanExpanderGraph}
 }
 ```
 
